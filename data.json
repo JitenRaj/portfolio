@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "greeting": "Hello,",
+    "intro": "My Name is",
+    "name": "JITEN",
+    "ctaText": "Portfolio",
+    "ctaLink": "#projects"
+  },
+  "services": {
+    "topText": "I'm a freelancer designer, Specializing in Graphic Design and Web Design & Development. Checkout my work below and feel free to get in touch if you want to work with me.",
+    "items": [
+      {
+        "title": "Graphic Design",
+        "icon": "img/gfx.png",
+        "desc": "Logo Design. <br> Poster | Banner Design. <br> Flyer Design. <br> Thumbnails Design. <br> Business Card Design. <br> Esports Gfx Design."
+      },
+      {
+        "title": "Web Development",
+        "icon": "img/develop.png",
+        "desc": "Visual Elements. <br> Interactive Website. <br> Code Review and Security Audit. <br> Custom Application Development."
+      },
+      {
+        "title": "Web Design",
+        "icon": "img/web-design1.png",
+        "desc": "Design the Graphics & other visual elements of a website.<br> Creative Branding solution & Responsive Design. <br> Blog Customization | Management."
+      },
+      {
+        "title": "Content Design",
+        "icon": "img/writing.png",
+        "desc": "Blog posts. <br> web page information. <br> Carousels Designing. <br> Canvas Designing. <br> Presentation Creating & Designing."
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Ji10 Revamp",
+      "subtitle": "Graphic Design | Web Design | Web Development",
+      "desc": "Logo & PFP | Social Media Banners <br> Backgrounds | Website Interface",
+      "img": "img/project1.jpg",
+      "link": "https://www.github.com/Ji10Raj/",
+      "linkText": "Check on Github"
+    },
+    {
+      "id": 2,
+      "title": "Benzene Revamp",
+      "subtitle": "Graphic Design | UI Templetes",
+      "desc": "Logo & PFP | G2G Banner <br> Web UI Templetes | Wallpaper",
+      "img": "img/project2.jpg",
+      "link": "https://www.instagram.com/p/CLjuuhLgBJq/",
+      "linkText": "Check on instagram"
+    },
+    {
+      "id": 3,
+      "title": "New Days : Clan Package",
+      "subtitle": "Esports Graphic Design",
+      "desc": "Clan Logo & PFP | Clan Members PFPs <br> Twitter Cover Pic | Recruitment Poster",
+      "img": "img/project3.jpg",
+      "link": "https://www.instagram.com/p/CJdFLySAoVY/",
+      "linkText": "Check on instagram"
+    },
+    {
+      "id": 4,
+      "title": "Code Develop",
+      "subtitle": "Content Design | Blog Post",
+      "desc": "Carousels Designing <br> Canvas Designing",
+      "img": "img/project4.jpg",
+      "link": "https://www.instagram.com/CodesDevelop/",
+      "linkText": "Check on instagram"
+    },
+    {
+      "id": 5,
+      "title": "Youtube Thumbnails",
+      "subtitle": "Graphic Design | Esports Graphic Design",
+      "desc": "Gaming related Thumbnails <br> Other Thumbnails",
+      "img": "img/project5.jpg",
+      "link": "https://www.instagram.com/Ji10Gfx",
+      "linkText": "Check on instagram"
+    }
+  ],
+  "about": {
+    "image": "./img/img-4.png",
+    "title": "Engineer | Developer | Graphic Designer",
+    "bio": "I am<span class=\"semiboldx\"> Jitendra Singh Rajpurohit.</span> I am pursuing my Engineering in <q><span class=\"semiboldx\">Electronics and Communication</span></q> Domain at <span class=\"semiboldx\"> School of Engineering & Technology, Jain University.</span><br><br> I am a freelancer Graphic Designer. I have worked with many clients and Esports Organizations. I love to Create and Design. <br> <br><span class=\"semiboldx\" >I have learned to become obsessed with the problem - it allows me to derive the most valuable insights for potential solutions.</span> I solve problems in creative ways. Recently started my journey as Web Developer and Web Designer."
+  },
+  "contact": {
+    "phone": ["+91 88888 88888", "+91 99999 99999"],
+    "email": ["Ji10Gfx@gmail.com", "Ji10Gfx@gmail.com"],
+    "location": "Bengaluru, Karnataka, India"
+  }
+}
